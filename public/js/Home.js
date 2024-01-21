@@ -1,5 +1,5 @@
 function logData() {
-  fetch("http://localhost:3000/category")
+  fetch("https://e-commerce-web-tvae.onrender.com/category")
     .then((data) => {
       return data.json();
     })
@@ -143,7 +143,7 @@ function sale(data, name, categoryId, sale_percent) {
 
 function redirectURL(name, id) {
   let url =
-    "http://localhost:3000/item.html?" + "categoryname=" + name + "&id=" + id;
+    "https://e-commerce-web-tvae.onrender.com/item.html?" + "categoryname=" + name + "&id=" + id;
   // console.log("Redirecting" , url);
   location.replace(url);
 }
