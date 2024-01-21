@@ -1,0 +1,440 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Clothing",
+      "items": [
+        {
+          "id": 1,
+          "name": "Shirt",
+          "price": 100,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 2,
+          "name": "Pants",
+          "price": 200,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1584865288642-42078afe6942?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 3,
+          "name": "Shoes",
+          "price": 300,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1600054904350-1d493ae5f922?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gadgets",
+      "items": [
+        {
+          "id": 1,
+          "name": "watch",
+          "price": 3000,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 2,
+          "name": "phone",
+          "price": 18000,
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 3,
+          "name": "laptop",
+          "price": 300000,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Food",
+      "items": [
+        {
+          "id": 1,
+          "name": "lentils",
+          "price": 300,
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1552585960-0e1069ce7405?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 2,
+          "name": "rice",
+          "price": 200,
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1594813592981-5f97b07dd392?q=80&w=1994&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 3,
+          "name": "wheat flour",
+          "price": 600,
+
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "id": 1,
+      "name": "Sale",
+      "sale_percentage": 50,
+      "items": [
+        {
+          "id": 1,
+          "name": "Women's Tops",
+          "price": 5000,
+          "category": "Clothing",
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+
+          "url": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=1410&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+
+        {
+          "id": 2,
+          "name": "T-shirts",
+          "price": 8000,
+          "category": "Clothing",
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "url": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2hpcnRzfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 3,
+          "name": "Laptop",
+          "price": 80000,
+          "category": "Gadgets",
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+          "url": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 4,
+          "name": "Coffee",
+          "price": 3000,
+          "category": "Food",
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1493925410384-84f842e616fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hvY29sYXRlfGVufDB8fDB8fHww"
+        },
+        {
+          "id": 5,
+          "name": "Shoes",
+          "price": 10000,
+          "category": "Clothing",
+          "product_detail": [
+            {
+              "Fabric": "cotton"
+            },
+            {
+              "quality": "medium"
+            },
+            {
+              "goods": "medium"
+            },
+            {
+              "product": "cotton"
+            },
+            {
+              "made-from": "India"
+            },
+            {
+              "packeging": "medium"
+            }
+          ],
+
+          "short_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, magnam quam! Ratione corrupti sint, maxime quas libero sit tempora itaque cumque similique laborum maiores quis iure fugit tenetur voluptatibus delectus?",
+          "about_product": "Product Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis est non magnam, similique qui delectus sequi eos modi laboriosam, dicta placeat earum sapiente quia molestias facere voluptatibus eveniet! Rem, expedita. Doloribus rem itaque possimus hic quam, vitae ut dignissimos omnis maxime, earum distinctio. Repudiandae, provident. Molestiae explicabo nostrum autem quibusdam maxime repellendus, iusto laudantium beatae nobis aspernatur minus earum nemo. Nostrum doloribus vitae iure aliquam.Possimus aperiam exercitationem perspiciatis repudiandae voluptatem cum quo assumenda rem molestias eius iste tempore, quibusdam voluptatibus minima quod, sequi dolor necessitatibus laboriosam atque! Ipsa, quo. Magni, earum quam. Voluptatibus officia libero vero doloribus veniam quia sed. Est sed aspernatur, reprehenderit quam nam repellat beatae, vel harum culpa cum officia, neque corporis? Quia velit modi error? Corrupti deserunt debitis eum cum totam corporis qui ad iure veniam. Commodi ex tempora reprehenderit  dolorum, quibusdam tenetur dolore ducimus vel provident temporibus obcaecati veniam et maiores! Facilis, obcaecati vitae?",
+          "url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  ]
+}
