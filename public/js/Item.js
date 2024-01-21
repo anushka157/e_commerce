@@ -5,7 +5,7 @@ const product_id = urlParams.get("id");
 
 function getItems() {
   let url =
-    "http://localhost:3000/product?categoryname=" +
+    "https://e-commerce-web-tvae.onrender.com/product?categoryname=" +
     category_name +
     "&id=" +
     product_id;
